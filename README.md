@@ -3,7 +3,7 @@ This repository contains the initial mesh file for the numerical example: "Examp
 
 S. Caucao, G.N. Gatica, and J.P. Ortega: A posteriori error analysis of a Banach spaces-based fully mixed FEM for double-diffusive convection in a fluid-saturated porous medium. Preprint 2022-12, Centro de Investigación en Ingeniería Matemática (CI²MA), Universidad de Concepción, (2022). 
 
-Available in: https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=481
+Available in: <a href="https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=481" target="_blank">https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=481</a>
 
 To load the mesh in FreeFem++, use the code:
 
