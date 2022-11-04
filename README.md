@@ -14,8 +14,13 @@ mesh Th = readmesh("Channel_network-mesh.msh");
 Labels setting:
 
 33: region outside the channel
+
 34: region inside the channel
+
 71: bottom boundary
+
 72, 82: right boundary
+
 73, 83: top boundary
+
 74, 84: left boundary
