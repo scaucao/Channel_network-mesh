@@ -6,7 +6,7 @@ S. Caucao, G.N. Gatica, and J.P. Ortega: A posteriori error analysis of a Banach
 Available in DOI: <a href="https://doi.org/10.1007/s10596-023-10195-5" target="_blank">10.1007/s10596-023-10195-5</a>
 
 
-To load the mesh in FreeFem++, use the code:
+To load the mesh in FreeFEM, use the code:
 
 mesh Th = readmesh("Channel_network-mesh.msh");
 
