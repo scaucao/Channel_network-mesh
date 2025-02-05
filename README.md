@@ -1,8 +1,7 @@
 # Channel_network-mesh
-This repository contains the initial mesh file for the numerical example: "Example 4: Flow through a 2D porous media with channel network" of the work:
+This repository contains the initial mesh file for the numerical example "Example 4: Flow through a 2D porous media with channel network" from the paper:
 
 S. Caucao, G.N. Gatica, and J.P. Ortega: A posteriori error analysis of a Banach spaces-based fully mixed FEM for double-diffusive convection in a fluid-saturated porous medium. Computational Geosciences, vol. 27, 2, pp. 289-316, (2023).  
-
 Available in DOI: <a href="https://doi.org/10.1007/s10596-023-10195-5" target="_blank">10.1007/s10596-023-10195-5</a>
 
 
